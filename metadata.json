@@ -1,0 +1,6 @@
+{
+  "name": "Weltreise-Atlas",
+  "description": "Ein kinderfreundliches Lernspiel, mit dem Flaggen, Länder und Hauptstädte der Welt spielerisch entdeckt werden.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
